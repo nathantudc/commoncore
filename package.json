@@ -1,0 +1,22 @@
+{
+  "name": "commoncore-react-native",
+  "version": "1.0.0",
+  "description": "常用的原生系统库，如ios的指纹识别、人脸识别",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathantudc/commoncore.git"
+  },
+  "keywords": [
+    "commcore、react-native、fingerprintRecognition"
+  ],
+  "author": "Nathantudc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathantudc/commoncore/issues"
+  },
+  "homepage": "https://github.com/nathantudc/commoncore#readme"
+}
